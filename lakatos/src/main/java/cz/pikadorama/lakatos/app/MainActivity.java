@@ -41,7 +41,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         setVolumeControlStream(AudioManager.STREAM_MUSIC);
 
-        GridView gridview = (GridView) findViewById(R.id.gridview);
+        GridView gridview = findViewById(R.id.gridview);
         gridview.setAdapter(new TextAdapter(getApplicationContext(), Sound.getMessages()));
 
         gridview.setOnItemClickListener((parent, v, position, id) -> {
