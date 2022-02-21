@@ -65,10 +65,6 @@ public enum Sound {
         return soundName;
     }
 
-    public String getSoundFileName() {
-        return soundName + ".ogg";
-    }
-
     public static List<String> getMessages() {
         List<String> messages = new ArrayList<>();
         for (Sound sound : Sound.values()) {
