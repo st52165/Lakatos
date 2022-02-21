@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Oprava Lakatoše</string>
+    <string name="title_activity_about">O aplikaci</string>
+    <string name="title_activity_widget_configuration">Vyberte hlášky:</string>
+
+    <string name="action_about">O aplikaci</string>
+    <string name="action_save">Uložit</string>
+
+    <string name="pikadorama">\u00A9 Pikadorama</string>
+    <string name="about_text">Tuhle aplikaci jsem napsal v rámci sázky během jedné hodiny. Vyhrál jsem basu piv :)</string>
+
+    <string name="error_no_sound_selected">Musíte vybrat alespoň jednu hlášku!</string>
+    <string name="error_cannot_play_sound">Zvuk nelze přehrát.</string>
+    <string name="error_ringtone_saved_or_not_set">Hláška byla uložena, ale bez udělení oprávnění k úpravě nastavení systému ji lze nastavit pouze ručně!</string>
+
+
+    <string name="ringtone_prefix">Lakatoš -\u0020</string>
+
+    <string name="dialog_action_share">Sdílet</string>
+    <string name="dialog_action_set_as_ringtone">Nastavit jako zvuk</string>
+    <string name="dialog_action_ringtone_ringtone">Pro vyzvánění</string>
+    <string name="dialog_action_ringtone_notification">Pro notifikace</string>
+    <string name="dialog_action_ringtone_alarm">Pro budíky</string>
+
+</resources>

@@ -1,0 +1,19 @@
+/.gradle/
+/build/
+/app/build/
+
+/local.properties
+
+/.idea/.name
+/.idea/libraries/
+/.idea/copyright/
+/.idea/*.xml
+!/.idea/codeStyleSettings.xml
+!/.idea/encodings.xml
+
+*.iml
+*.apk
+
+# leave ignored unless it contains something else than proxy settings
+gradle.properties
+lakatos/release

@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">@color/background_pressed</item>
+        <item name="android:colorPrimaryDark">@color/background</item>
+    </style>
+
+    <style name="elevation">
+        <item name="android:elevation">4dp</item>
+    </style>
+
+</resources>

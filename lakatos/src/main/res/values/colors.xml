@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="background">#44a3aa</color>
+    <color name="background_pressed">#50C3CC</color>
+
+    <!--<color name="list_activated">#FFD8D8D8</color>-->
+    <color name="list_activated">#50C3CC</color>
+
+    <color name="card_shadow">#FFCCCCCC</color>
+</resources>
