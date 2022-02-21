@@ -17,3 +17,4 @@
 # leave ignored unless it contains something else than proxy settings
 gradle.properties
 lakatos/release
+/lakatos/debug/
